@@ -1,0 +1,15 @@
+.travel1 {
+    border: 1px solid black;
+    margin-left: 0px;
+    margin-right: 0px;
+    float: none
+}
+
+.travel1 h5,
+.travel1 p {
+    margin-left: 20px;
+}
+
+.travel1 img {
+    width: 100%
+}
